@@ -1,0 +1,62 @@
+1. name=Нападение на офис движения Медведчука в Киеве объяснили местью  url=https://www.gazeta.ru/social/news/2018/10/15/n_12169153.shtml
+2. name=В аварии под Астраханью погибли четыре человека  url=https://www.gazeta.ru/auto/news/2018/10/14/n_12169111.shtml
+3. name=Трамп поблагодарил СМИ за исправленную после его критики неточность  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12169105.shtml
+4. name=Посол России поделился эмоциями от осмотра дипсобственности в Сан-Франциско  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12169021.shtml
+5. name=Египет призвал к «прозрачному» расследованию исчезновения саудовского журналиста  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168997.shtml
+6. name=Кулемин вернется на лед в ближайших матчах «Металлурга»  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168991.shtml
+7. name=В Подмосковье на трассе М2 «Крым» столкнулись два автомобиля  url=https://www.gazeta.ru/auto/news/2018/10/14/n_12168973.shtml
+8. name=В Катаре назвали заход корабля США «демонстрацией дружбы и глубины сотрудничества»  url=https://www.gazeta.ru/army/news/2018/10/14/12168949.shtml
+9. name=Саудовский принц поблагодарил Турцию за расследование пропажи журналиста  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168895.shtml
+10. name=Нидерландский генерал обвинил Россию в провокациях за Полярным кругом  url=https://www.gazeta.ru/army/news/2018/10/14/12168865.shtml
+11. name=СМИ: радикалы разгромили офис Медведчука в Киеве  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168847.shtml
+12. name=Дзюба поблагодарил исполняющего обязанности президента РФС после победы  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168787.shtml
+13. name=Глава НАСА эмоционально отреагировал на крушение «Союза»  url=https://www.gazeta.ru/science/news/2018/10/14/n_12168733.shtml
+14. name=СК проводит проверку по факту обрушения строительных лесов в центре Москвы  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168715.shtml
+15. name=В перестрелке на детском дне рождения в США погибли четыре человека  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168667.shtml
+16. name=Черчесов рассказал о роли голубей в победе над Турцией  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168679.shtml
+17. name=Иранский военный был арестован в связи с терактом на военном параде  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168655.shtml
+18. name=Трамп признался в доверии Ким Чен Ыну  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168607.shtml
+19. name=Азар рассказал о желании красиво уйти из «Челси»  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168631.shtml
+20. name=Посольство России проверяет информацию о задержании чеченцев под Парижем  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168589.shtml
+21. name=Жена Кокорина объяснила поведение мужа непопаданием на чемпионат мира  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168577.shtml
+22. name=CNN: больше американцев поверили в победу Трампа на выборах в 2020 году  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168505.shtml
+23. name=Сборная России обыграла Турцию в матче Лиги наций  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168517.shtml
+24. name=Захарова объяснила обвинения в адрес России в кибератаках  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168457.shtml
+25. name=Главы МИД Сирии и Ирака решили ускорить открытие границы  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168427.shtml
+26. name=Израиль возобновит полеты F-35 после крушения  url=https://www.gazeta.ru/army/news/2018/10/14/12168379.shtml
+27. name=«Наполи» отказался продавать защитника Гулама за €45 млн в «Манчестер Юнайтед»  url=https://www.gazeta.ru/sport/news/2018/10/14/n_12168355.shtml
+28. name=Саудовская Аравия поблагодарила Трампа за предупреждение  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168349.shtml
+29. name=Украинская полиция задержала десятки человек возле Киево-Печерской лавры  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168343.shtml
+30. name=В центре Москвы обрушились строительные леса, есть пострадавшие  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168307.shtml
+31. name=В центре Киева завершился марш националистов  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168271.shtml
+32. name=Праворадикальная «Альтернатива для Германии» впервые проходит в парламент Баварии  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168235.shtml
+33. name=Украинца с задержанного в Крыму судна «ЯМК-0041» отпустили на похороны матери  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168181.shtml
+34. name=Трамп возмутился намекам на симпатии к рабовладельцам  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168145.shtml
+35. name=Националисты начали марш в Киеве  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168127.shtml
+36. name=В Германии самолет упал на толпу, есть погибшие  url=https://www.gazeta.ru/social/news/2018/10/14/n_12168097.shtml
+37. name=Посол Китая в США пожаловался на Трампа  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12168019.shtml
+38. name=Советник Трампа заявил, что в ООН переоценивают климатическую угрозу  url=https://www.gazeta.ru/science/news/2018/10/14/n_12167995.shtml
+39. name=МИД ФРГ, Франции и Британии потребовали расследовать пропажу саудовского журналиста  url=https://www.gazeta.ru/politics/news/2018/10/14/n_12167935.shtml
+40. name=Кризис навсегда: дорогая нефть не поможет бедным  url=https://www.gazeta.ru/business/2018/10/04/12009007.shtml
+41. name=Сверхлюди наступают: последний страх Стивена Хокинга  url=https://www.gazeta.ru/science/2018/10/14_a_12021025.shtml
+42. name=«Сразу пошли в атаку»: как Россия победила турков  url=https://www.gazeta.ru/sport/2018/10/14/a_12021289.shtml
+43. name=США в шоке: «Веном» сожрал конкурентов  url=https://www.gazeta.ru/culture/2018/10/14/a_12021007.shtml
+44. name=Жадные до свободы: в чем секрет экономического чуда  url=https://www.gazeta.ru/comments/2018/10/12_a_12019117.shtml
+45. name=Польза и деньги  url=https://www.gazeta.ru/comments/column/solnceva/12020185.shtml
+46. name=Лапша и душ раз в неделю: новая жизнь Кокорина и Мамаева  url=https://www.gazeta.ru/sport/2018/10/14/a_12020899.shtml
+47. name=Козни Константинополя: РПЦ теряет Украину  url=https://www.gazeta.ru/politics/2018/10/14_a_12020923.shtml
+48. name=«Это ведь Вашингтон»: глава Пентагона уйдет в отставку  url=https://www.gazeta.ru/army/2018/10/14/12021157.shtml
+49. name=Первый триумф Манчини: Италия одолела Польшу  url=https://www.gazeta.ru/sport/nationsleague/matches/2018/11947723.shtml
+50. name=Киберсражения: Нидерланды объявили о войне с Россией  url=https://www.gazeta.ru/tech/2018/10/14_a_12020941.shtml
+51. name=«Включил Кокорина, угрожал»: пьяные игроки попались за рулем  url=https://www.gazeta.ru/sport/2018/10/14/a_12020905.shtml
+52. name=Противостояние на Азове: Украина готовится к битве  url=https://www.gazeta.ru/army/2018/10/14/12020881.shtml
+53. name=«Страдал весь ЧМ-2018»: жена объяснила агрессию Кокорина. LIVE  url=https://www.gazeta.ru/sport/2018/10/14/a_12020407.shtml
+54. name=Мир в кибервойне: как Москва поставила Пентагон в тупик  url=https://www.gazeta.ru/army/2018/10/14/12020743.shtml
+55. name=Ярославль взял Москву: «Локо» разгромил «Динамо»  url=https://www.gazeta.ru/sport/matches/hockey/khl/2018-2019/11904871.shtml
+56. name=Признание Трампа: Россия и Китай обогнали США в космосе  url=https://www.gazeta.ru/army/2018/10/14/12020845.shtml
+57. name=Конец Загитовой и Медведевой: юниорки захватили мир  url=https://www.gazeta.ru/sport/2018/10/14/a_12020833.shtml
+58. name=«Жутко и странно»: как Рим боролся с вампирами  url=https://www.gazeta.ru/science/2018/10/14_a_12020713.shtml
+59. name=Русский в Париже: Валентину Юдашкину — 55  url=https://www.gazeta.ru/lifestyle/style/2018/10/a_12020665.shtml
+60. name=За себя и за Сашку: Россия против Турции и скандала  url=https://www.gazeta.ru/sport/2018/10/14/a_12020725.shtml
+61. name=«Накануне краха»: что скрывалось за эпохой Брежнева  url=https://www.gazeta.ru/business/2018/10/12/12019459.shtml
+62. name=«Я король в этих джунглях»: Хабиб бросил вызов Мейвезеру  url=https://www.gazeta.ru/sport/2018/10/14/a_12020551.shtml
